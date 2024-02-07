@@ -56,7 +56,7 @@ I am a Android developer<img src="https://giphy.com/gifs/xThuWu82QD3pj4wvEQ" wid
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
