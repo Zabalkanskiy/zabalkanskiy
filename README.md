@@ -5,7 +5,8 @@
 
 ### About me:
 
-I am a Android developer<img src="https://giphy.com/gifs/xThuWu82QD3pj4wvEQ" width="30px">.
+I am a Android developer. 
+In my work, I use Kotlin and Java language.
 
 
 <p align="center">
@@ -32,7 +33,7 @@ I am a Android developer<img src="https://giphy.com/gifs/xThuWu82QD3pj4wvEQ" wid
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg" title="elixir" alt="elixir" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp
   
   
 
