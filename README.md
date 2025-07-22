@@ -32,7 +32,8 @@ My telegramm: @zabalkanskiy
 ### 💻 Technologies:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/512px-Dart_programming_language_logo.svg.png" title="dart" alt="dart" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="android" alt="android" width="40" height="40"/>&nbsp
@@ -55,12 +56,12 @@ My telegramm: @zabalkanskiy
 ### 🛠 Tools:
 
 <div>
+ <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc.png" title="bloc" alt="bloc" width="100" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
