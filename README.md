@@ -5,8 +5,17 @@
 
 ### About me:
 
-I am a Android developer.   
-In my work, I use Kotlin and Java language.
+I began my journey in Android development and have gradually developed my skills in creating apps that solve real user problems. I currently focus on cross-platform development for both Android and iOS using Dart and Flutter.
+
+Technologies I work with:
+- **Flutter Development:** Dart, State Management: Bloc, Provider, Riverpod, Database: Floor, Drift, Sqflite, Shared Preferences, Networking: Dio, Retrofit, Firebase Analytics, Crashlytics, Logger, WebView, FLChart, Firebase Analytics, OneSignal, Camera API, Google ML for barcode recognition, Flutter Local Notifications, Clean Architecture, Figma.
+- **Android Development (Main Stack):** Kotlin, Java, MVVM, MVP, MVI, Dagger 2, Hilt, Koin, Room, OkHttp, Retrofit, Coroutines, RxJava, Jetpack Compose, WebView, Firebase Analytics, Crashlytics, AppMetrica, AppsFlyer, OneSignal, Clean Architecture, Figma.
+
+I am constantly learning new technologies and practices. I am a passionate developer who strives to create high-quality and user-friendly apps. My experience in Android development and growing knowledge of Flutter allows me to effectively work with both native and cross-platform solutions.
+
+
+My telegramm: @zabalkanskiy
+
 
 
 <p align="center">
